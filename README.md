@@ -1,6 +1,6 @@
-Hi I'm Praveen, a senior QA / SDET professional based in India.
+Hi I'm <ins>Praveen</ins>, a senior QA / SDET professional based in India.
 
-Transitioning from traditional automation testing to Cloud SDET profile that scale with modern distributed systems. Hands-on learning and projects in AWS Cloud services.
+Transitioning from traditional Automation testing to <ins>Cloud SDET</ins> profile that scale with modern distributed systems. Hands-on learning and projects in AWS Cloud services.
 
 Building CI/CD-integrated automation frameworks.
 
