@@ -8,7 +8,7 @@ Practising cloud-ready test strategies (API, integration, regression at scale).
 
 My current tech stack is Java, Selenium WebDriver, Playwright, TestNG, Rest API Testing, Data-driven framework based automation.
 
-Cloud & DevOps (Actively Learning & Practising) - AWS (EC2, S3, IAM, VPC), CI/CD pipelines(Jenkins/GitHub Actions), Docker(basics).
+Cloud & DevOps (Actively Learning & Practising) - AWS (EC2, S3, IAM, VPC), CI/CD pipelines(Jenkins/GitHub Actions), Docker(Basics).
 
 Databases - SQL, MongoDB.
 
